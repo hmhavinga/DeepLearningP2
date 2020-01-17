@@ -4,6 +4,6 @@ The word vectors can be downloaded at [FastText](https://fasttext.cc/docs/en/eng
 
 To be able to run the code all files should be unzipped and in the same folder.
 
-*Code.ipynb* is the main code file, which is a jupyter notebook. This notebook can be run by the Jupyter Notebook app, to do so it is easiest to download [Anaconda](https://www.anaconda.com/).
+*Code.ipynb* is the main code file, which is a jupyter notebook. This notebook can be run by the Jupyter Notebook app, to do so it is easiest to download [Anaconda](https://www.anaconda.com/). Make sure to have tensorflow version 1.13.1.
 
 
